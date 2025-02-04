@@ -51,6 +51,8 @@ android {
 
 dependencies {
 
+
+    implementation ("com.squareup.picasso:picasso:2.8")
     implementation("androidx.core:core-ktx:1.13.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.2")
     implementation("androidx.activity:activity-compose:1.9.0")
